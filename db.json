@@ -1,0 +1,16 @@
+[
+  {
+    "username": "srjsuraj",
+    "password": "$2a$12$qL9l7u42uAPvDCzpvtlJweBxgFZqtUc2h8Qtg1Z3pclVZiMlzfhMG",
+    "fname": "suraj",
+    "lname": "singh",
+    "id": "357cb490-93f1-47c8-b31e-c485ad5dbca4"
+  },
+  {
+    "username": "msdhoni",
+    "password": "$2a$12$0k9Eb9x7ctJRSArcoZ.au.sxl8buUbVzsq2sK1kbUGBdtjQWtgsgO",
+    "fname": "ms",
+    "lname": "dhoni",
+    "id": "835b764a-fb6d-483b-b14e-c481fe82531c"
+  }
+]
